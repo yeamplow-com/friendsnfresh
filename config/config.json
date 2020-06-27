@@ -1,0 +1,7 @@
+{
+    "DB_USERNAME": "friendsnfresh",
+    "DB_PASSWORD": "onzzbyms123",
+    "DB_PORT": "3306",
+    "DB_HOST": "friendsnfresh.cy7so3fa62lt.us-east-2.rds.amazonaws.com",
+    "DB_NAME": "friendsnfresh"
+}
